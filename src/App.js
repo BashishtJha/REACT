@@ -1,7 +1,10 @@
-
+import First from './first';
 function App() {
   return (
- <h1>Hello, World!</h1>
+    <div>
+      <First />
+      <h1>keep learning React!</h1>
+    </div>
   );
 }
 
